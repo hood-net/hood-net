@@ -27,10 +27,10 @@ $\color{#362C54}{\texttt{Jason}}$ $\color{#834E74}{\texttt{Todd}}$ $\color{#C4C3
        <br>
       <a href="https://github.com/pt-everypony">@𝘱𝘵-𝘦𝘷𝘦𝘳𝘺𝘱𝘰𝘯𝘺
   </td>
-     <div align="center">
     <td width="50%" style="padding: 20px; text-align: center;">
       <img width="200" height="200" alt="img" src="https://www.image2url.com/r2/default/images/1787601408562-81b39fe9-1d9d-4a91-ad34-c8d36eccfa36.png"/>
       <br><br>
+      <div align="center">
       <strong>$\color{#362C54}{\texttt{Num 1}}$ $\color{#834E74}{\texttt{Primehood}}$ $\color{#C4C3B1}{\texttt{shipper!}}$
 <br>
 $\color{#C4C3B1}{\texttt{♡}}$
