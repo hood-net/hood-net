@@ -10,6 +10,7 @@ $\color{#362C54}{\texttt{Jason}}$ $\color{#834E74}{\texttt{Todd}}$ $\color{#C4C3
   <tr>
     <td width="50%" style="padding: 20px; border-right: 2px solid #834E74;">
       <strong style="color: #834E74;">$\color{#362C54}{\textsf{Thee}}$ $\color{#834E74}{\texttt{Jason}}$ $\color{#C4C3B1}{\texttt{Todd}}$ $\color{#A75C81}{\texttt{Of}}$ $\color{#583D64}{\texttt{PonyTown:}}$<br></strong>
+      <div align="center">
       <a href="https://github.com/title-town">@𝘵𝘪𝘵𝘭𝘦-𝘵𝘰𝘸𝘯</a><br>
       <a href="https://github.com/pt-contributers">@𝘱𝘵-𝘤𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘦𝘳𝘴</a><br>
       <a href="https://github.com/charactersofpt">@𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳𝘴𝘰𝘧𝘱𝘵</a><br>
@@ -26,6 +27,7 @@ $\color{#362C54}{\texttt{Jason}}$ $\color{#834E74}{\texttt{Todd}}$ $\color{#C4C3
        <br>
       <a href="https://github.com/pt-everypony">@𝘱𝘵-𝘦𝘷𝘦𝘳𝘺𝘱𝘰𝘯𝘺
   </td>
+     <div align="center">
     <td width="50%" style="padding: 20px; text-align: center;">
       <img width="200" height="200" alt="img" src="https://www.image2url.com/r2/default/images/1787601408562-81b39fe9-1d9d-4a91-ad34-c8d36eccfa36.png"/>
       <br><br>
