@@ -76,5 +76,4 @@ $\color{#A75C81}{\texttt{꒰}}$ [![spotify-github-profile](https://spotify-githu
       
 $\color{#362C54}{\texttt{Love}}$ $\color{#834E74}{\texttt{you}}$ $\color{#C4C3B1}{\texttt{guys}}$ $\color{#A75C81}{\texttt{sm}}$ $\color{#583D64}{\texttt{<3}}$ 
 
-$\color{#362C54}{\texttt{I}}$ $\color{#834E74}{\texttt{lob}}$ $\color{#C4C3B1}{\texttt{you}}$ $\color{#A75C81}{\texttt{Hal!}}$ $\color{#583D64}{\texttt{<3}}$ 
 <img width="" height="" alt="IMG_0700" src="https://github.com/user-attachments/assets/ef4fe679-c5f6-4d4e-a5b0-0a44d5446233" />
