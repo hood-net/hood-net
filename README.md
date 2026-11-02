@@ -57,7 +57,24 @@ $\color{#362C54}{\texttt{꒰}}$  [![新BOOK](https://img.shields.io/badge/-新BO
 
 $\color{#A75C81}{\texttt{꒰}}$ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mvvh0an1ruqha31jrfpyv4t30&cover_image=true&theme=novatorem&show_offline=false&background_color=25006a&interchange=false&profanity=false&hide_remaster=false&bar_color=8b2368&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)  $\color{#A75C81}{\texttt{꒱}}$
 
-[𝘱𝘵-𝘧𝘳𝘪𝘦𝘯𝘥𝘴𝘩𝘪𝘱𝘴](https://github.com/pt-friendships)
+<div class="accordion">
+  <details>
+    <summary>@pt-friendships</summary>
+    <div class="content">
+      <img
+        src="https://cdn.phototourl.com/member/2026-11-02-a8ef8eb4-7f59-44ac-9948-5fab73b80ae5.jpg"
+        alt="friendships image"
+      />
+  <br>
+    <div class="content">
+      <img
+        src="https://cdn.phototourl.com/member/2026-11-02-46c41e3b-4e71-4453-8221-4b88d1514659.jpg"
+        alt="interests image"
+      />
+  </details>
+</div>
+      
+$\color{#362C54}{\texttt{Love}}$ $\color{#834E74}{\texttt{you}}$ $\color{#C4C3B1}{\texttt{guys}}$ $\color{#A75C81}{\texttt{sm}}$ $\color{#583D64}{\texttt{<3}}$ 
 
 $\color{#362C54}{\texttt{I}}$ $\color{#834E74}{\texttt{lob}}$ $\color{#C4C3B1}{\texttt{you}}$ $\color{#A75C81}{\texttt{Hal!}}$ $\color{#583D64}{\texttt{<3}}$ 
 <img width="" height="" alt="IMG_0700" src="https://github.com/user-attachments/assets/ef4fe679-c5f6-4d4e-a5b0-0a44d5446233" />
