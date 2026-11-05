@@ -24,6 +24,8 @@ $\color{#362C54}{\texttt{Jason}}$ $\color{#834E74}{\texttt{Todd}}$ $\color{#C4C3
       <a href="https://github.com/Ponytowns-rewards">@𝘗𝘰𝘯𝘺𝘵𝘰𝘸𝘯𝘴-𝘳𝘦𝘸𝘢𝘳𝘥𝘴
        <br>
       <a href="https://github.com/pt-everypony">@𝘱𝘵-𝘦𝘷𝘦𝘳𝘺𝘱𝘰𝘯𝘺
+      <br>
+      <a href="https://github.com/animal-town">@𝘢𝘯𝘪𝘮𝘢𝘭-𝘵𝘰𝘸𝘯
   </td>
     <td width="50%" style="padding: 20px; text-align: center;">
       <img width="200" height="200" alt="img" src="https://www.image2url.com/r2/default/images/1787601408562-81b39fe9-1d9d-4a91-ad34-c8d36eccfa36.png"/>
